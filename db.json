@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "price": 7,
+      "active": true
+    },
+    {
+      "id": 12,
+      "name": "facewash",
+      "price": "155"
+    },
+    {
+      "id": 17,
+      "name": "vannila",
+      "price": 6,
+      "active": true
+    },
+    {
+      "id": 18,
+      "name": "pizza",
+      "price": "199"
+    },
+    {
+      "id": 11,
+      "name": "cofee",
+      "price": 20,
+      "active": true
+    },
+    {
+      "id": 23,
+      "name": "realme",
+      "price": "2000"
+    },
+    {
+      "id": "1",
+      "name": "chocolate",
+      "price": "15"
+    },
+    {
+      "id": "3",
+      "name": "mango",
+      "price": "25"
+    }
+  ]
+}
